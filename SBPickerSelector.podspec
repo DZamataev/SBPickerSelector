@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = { :type => 'MIT', :file => 'LICENSE'}
   s.author = { "Santiago Bustamante" => "busta117@gmail.com" }
   s.source = {
-      :git => "https://github.com/Busta117/SBPickerSelector.git",
+      :git => "https://github.com/DZamataev/SBPickerSelector.git",
       :tag => s.version.to_s
     }
         
